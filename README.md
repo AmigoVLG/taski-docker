@@ -1,2 +1,3 @@
-# taski-docker
+# taski-docker - slim python version
+
 
